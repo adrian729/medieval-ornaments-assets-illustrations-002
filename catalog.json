@@ -1,0 +1,2545 @@
+[
+  {
+    "name": "choirbook-and-ivy",
+    "author": "adrian729",
+    "description": "A closed clasped book with a ribbon bookmark, visible page edges and a decorated spine, surrounded by curling ivy in black penwork.",
+    "categories": [
+      "reading",
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "book",
+      "bookmark",
+      "ivy",
+      "leaf",
+      "vine"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black"
+    ],
+    "composition": "standalone",
+    "usage_notes": [
+      "User-authored artwork; native canvas, transparency and pixels are retained. Import details are recorded in authored-additions.json.",
+      "Black linework and its interiors are transparent; it reads best on a light surface.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "png": "png/choirbook-and-ivy.png",
+    "webp": "webp/choirbook-and-ivy.webp",
+    "reference": "authored-additions",
+    "derivation": "supplied-authored-raster",
+    "asset_type": "illustration",
+    "width": 1536,
+    "height": 1024,
+    "png_bytes": 730743,
+    "webp_bytes": 482022,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/choirbook-and-ivy.png",
+        "webp": "webp/128/choirbook-and-ivy.webp",
+        "width": 128,
+        "height": 85,
+        "png_bytes": 6972,
+        "webp_bytes": 4190
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/choirbook-and-ivy.png",
+        "webp": "webp/256/choirbook-and-ivy.webp",
+        "width": 256,
+        "height": 171,
+        "png_bytes": 21860,
+        "webp_bytes": 13998
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/choirbook-and-ivy.png",
+        "webp": "webp/512/choirbook-and-ivy.webp",
+        "width": 512,
+        "height": 341,
+        "png_bytes": 67916,
+        "webp_bytes": 43708
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/choirbook-and-ivy.png",
+        "webp": "webp/768/choirbook-and-ivy.webp",
+        "width": 768,
+        "height": 512,
+        "png_bytes": 137097,
+        "webp_bytes": 88738
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "hoefnagel-cut-apple",
+    "description": "Two overlapping halves of a red apple reveal pale flesh, dark cores, brown seeds and short stalks.",
+    "categories": [
+      "botanical"
+    ],
+    "subjects": [
+      "apple",
+      "fruit",
+      "seed"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "cream",
+      "brown"
+    ],
+    "composition": "multiple-figures",
+    "png": "png/hoefnagel-cut-apple.png",
+    "webp": "webp/hoefnagel-cut-apple.webp",
+    "reference": "getty-ms20-107",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "J. Paul Getty Museum",
+      "title": "French Rose and Apple",
+      "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+      "date": "Script 1561-1562; illumination 1591-1596",
+      "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+      "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.getty.edu/projects/open-content-program/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+      "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+    },
+    "source_canvas": {
+      "width": 5877,
+      "height": 8212
+    },
+    "master_longest_dimension_cap": 1600,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 1239,
+    "height": 1033,
+    "png_bytes": 1970999,
+    "webp_bytes": 1427430,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hoefnagel-cut-apple.png",
+        "webp": "webp/128/hoefnagel-cut-apple.webp",
+        "width": 128,
+        "height": 107,
+        "png_bytes": 26597,
+        "webp_bytes": 20786
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hoefnagel-cut-apple.png",
+        "webp": "webp/256/hoefnagel-cut-apple.webp",
+        "width": 256,
+        "height": 213,
+        "png_bytes": 96111,
+        "webp_bytes": 71560
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hoefnagel-cut-apple.png",
+        "webp": "webp/512/hoefnagel-cut-apple.webp",
+        "width": 512,
+        "height": 427,
+        "png_bytes": 364246,
+        "webp_bytes": 264572
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hoefnagel-cut-apple.png",
+        "webp": "webp/768/hoefnagel-cut-apple.webp",
+        "width": 768,
+        "height": 640,
+        "png_bytes": 807575,
+        "webp_bytes": 583936
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "hoefnagel-rose-lower",
+    "description": "A small drooping pink rosebud with green sepals and a short visible stem.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "rose",
+      "rosebud",
+      "flower",
+      "stem"
+    ],
+    "facing": "left",
+    "colors": [
+      "pink",
+      "green",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "png": "png/hoefnagel-rose-lower.png",
+    "webp": "webp/hoefnagel-rose-lower.webp",
+    "reference": "getty-ms20-107",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "J. Paul Getty Museum",
+      "title": "French Rose and Apple",
+      "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+      "date": "Script 1561-1562; illumination 1591-1596",
+      "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+      "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.getty.edu/projects/open-content-program/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+      "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+    },
+    "source_canvas": {
+      "width": 5877,
+      "height": 8212
+    },
+    "master_longest_dimension_cap": 900,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 900,
+    "height": 541,
+    "png_bytes": 457499,
+    "webp_bytes": 321942,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hoefnagel-rose-lower.png",
+        "webp": "webp/128/hoefnagel-rose-lower.webp",
+        "width": 128,
+        "height": 77,
+        "png_bytes": 13306,
+        "webp_bytes": 11184
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hoefnagel-rose-lower.png",
+        "webp": "webp/256/hoefnagel-rose-lower.webp",
+        "width": 256,
+        "height": 154,
+        "png_bytes": 44186,
+        "webp_bytes": 33782
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hoefnagel-rose-lower.png",
+        "webp": "webp/512/hoefnagel-rose-lower.webp",
+        "width": 512,
+        "height": 308,
+        "png_bytes": 158496,
+        "webp_bytes": 114184
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hoefnagel-rose-lower.png",
+        "webp": "webp/768/hoefnagel-rose-lower.webp",
+        "width": 768,
+        "height": 462,
+        "png_bytes": 342381,
+        "webp_bytes": 244658
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "hoefnagel-rose-upper",
+    "description": "A drooping pink rose with a green calyx, pointed sepals and a long curved green stem.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "rose",
+      "flower",
+      "stem"
+    ],
+    "facing": "left",
+    "colors": [
+      "pink",
+      "green",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "png": "png/hoefnagel-rose-upper.png",
+    "webp": "webp/hoefnagel-rose-upper.webp",
+    "reference": "getty-ms20-107",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "J. Paul Getty Museum",
+      "title": "French Rose and Apple",
+      "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+      "date": "Script 1561-1562; illumination 1591-1596",
+      "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+      "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.getty.edu/projects/open-content-program/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+      "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+    },
+    "source_canvas": {
+      "width": 5877,
+      "height": 8212
+    },
+    "master_longest_dimension_cap": 1000,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 1000,
+    "height": 438,
+    "png_bytes": 444736,
+    "webp_bytes": 318480,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hoefnagel-rose-upper.png",
+        "webp": "webp/128/hoefnagel-rose-upper.webp",
+        "width": 128,
+        "height": 56,
+        "png_bytes": 10021,
+        "webp_bytes": 8682
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hoefnagel-rose-upper.png",
+        "webp": "webp/256/hoefnagel-rose-upper.webp",
+        "width": 256,
+        "height": 112,
+        "png_bytes": 33480,
+        "webp_bytes": 26562
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hoefnagel-rose-upper.png",
+        "webp": "webp/512/hoefnagel-rose-upper.webp",
+        "width": 512,
+        "height": 224,
+        "png_bytes": 121397,
+        "webp_bytes": 90096
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hoefnagel-rose-upper.png",
+        "webp": "webp/768/hoefnagel-rose-upper.webp",
+        "width": 768,
+        "height": 336,
+        "png_bytes": 268088,
+        "webp_bytes": 196812
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "isabella-blue-cornflower",
+    "description": "A blue flower with ragged radiating petals and a dark center, viewed from the front.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "cornflower",
+      "flower"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "light-blue",
+      "black"
+    ],
+    "composition": "single-figure",
+    "png": "png/isabella-blue-cornflower.png",
+    "webp": "webp/isabella-blue-cornflower.webp",
+    "reference": "cleveland-1963-256-80-b",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Floral border surrounding Virgin and Christ with Angels",
+      "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "date": "ca. 1500",
+      "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+      "artist": "Master of the First Prayerbook of Maximillian and associates",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+      "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+    },
+    "source_canvas": {
+      "width": 3802,
+      "height": 5545
+    },
+    "master_longest_dimension_cap": 430,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 430,
+    "height": 409,
+    "png_bytes": 276714,
+    "webp_bytes": 202952,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/isabella-blue-cornflower.png",
+        "webp": "webp/128/isabella-blue-cornflower.webp",
+        "width": 128,
+        "height": 122,
+        "png_bytes": 30545,
+        "webp_bytes": 25788
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/isabella-blue-cornflower.png",
+        "webp": "webp/256/isabella-blue-cornflower.webp",
+        "width": 256,
+        "height": 243,
+        "png_bytes": 105310,
+        "webp_bytes": 79970
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "isabella-gray-butterfly",
+    "description": "A gray butterfly with dark eyespots, mottled wings and thin antennae.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "butterfly",
+      "insect"
+    ],
+    "facing": "right",
+    "colors": [
+      "gray",
+      "cream",
+      "brown",
+      "black"
+    ],
+    "composition": "single-figure",
+    "png": "png/isabella-gray-butterfly.png",
+    "webp": "webp/isabella-gray-butterfly.webp",
+    "reference": "cleveland-1963-256-80-b",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Floral border surrounding Virgin and Christ with Angels",
+      "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "date": "ca. 1500",
+      "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+      "artist": "Master of the First Prayerbook of Maximillian and associates",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+      "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+    },
+    "source_canvas": {
+      "width": 3802,
+      "height": 5545
+    },
+    "master_longest_dimension_cap": 450,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 450,
+    "height": 385,
+    "png_bytes": 239252,
+    "webp_bytes": 152890,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/isabella-gray-butterfly.png",
+        "webp": "webp/128/isabella-gray-butterfly.webp",
+        "width": 128,
+        "height": 110,
+        "png_bytes": 23160,
+        "webp_bytes": 15972
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/isabella-gray-butterfly.png",
+        "webp": "webp/256/isabella-gray-butterfly.webp",
+        "width": 256,
+        "height": 219,
+        "png_bytes": 81670,
+        "webp_bytes": 53040
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "isabella-orange-butterfly",
+    "description": "A small butterfly with orange and gray patterned wings, dark spots and thin antennae.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "butterfly",
+      "insect"
+    ],
+    "facing": "right",
+    "colors": [
+      "orange",
+      "gray",
+      "brown",
+      "black"
+    ],
+    "composition": "single-figure",
+    "png": "png/isabella-orange-butterfly.png",
+    "webp": "webp/isabella-orange-butterfly.webp",
+    "reference": "cleveland-1963-256-80-b",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Floral border surrounding Virgin and Christ with Angels",
+      "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "date": "ca. 1500",
+      "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+      "artist": "Master of the First Prayerbook of Maximillian and associates",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+      "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+    },
+    "source_canvas": {
+      "width": 3802,
+      "height": 5545
+    },
+    "master_longest_dimension_cap": 300,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 297,
+    "height": 300,
+    "png_bytes": 154003,
+    "webp_bytes": 106582,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/isabella-orange-butterfly.png",
+        "webp": "webp/128/isabella-orange-butterfly.webp",
+        "width": 127,
+        "height": 128,
+        "png_bytes": 31684,
+        "webp_bytes": 23094
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/isabella-orange-butterfly.png",
+        "webp": "webp/256/isabella-orange-butterfly.webp",
+        "width": 253,
+        "height": 256,
+        "png_bytes": 114599,
+        "webp_bytes": 80534
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "isabella-pink-rose",
+    "description": "A layered pink rose viewed from the front, with golden stamens and dark rose-colored petal folds.",
+    "categories": [
+      "floral",
+      "botanical"
+    ],
+    "subjects": [
+      "rose",
+      "flower"
+    ],
+    "facing": "front",
+    "colors": [
+      "pink",
+      "red",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "png": "png/isabella-pink-rose.png",
+    "webp": "webp/isabella-pink-rose.webp",
+    "reference": "cleveland-1963-256-80-b",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Floral border surrounding Virgin and Christ with Angels",
+      "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "date": "ca. 1500",
+      "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+      "artist": "Master of the First Prayerbook of Maximillian and associates",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+      "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+    },
+    "source_canvas": {
+      "width": 3802,
+      "height": 5545
+    },
+    "master_longest_dimension_cap": 550,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 550,
+    "height": 514,
+    "png_bytes": 543133,
+    "webp_bytes": 382698,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/isabella-pink-rose.png",
+        "webp": "webp/128/isabella-pink-rose.webp",
+        "width": 128,
+        "height": 120,
+        "png_bytes": 33217,
+        "webp_bytes": 25688
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/isabella-pink-rose.png",
+        "webp": "webp/256/isabella-pink-rose.webp",
+        "width": 256,
+        "height": 239,
+        "png_bytes": 122754,
+        "webp_bytes": 89588
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/isabella-pink-rose.png",
+        "webp": "webp/512/isabella-pink-rose.webp",
+        "width": 512,
+        "height": 478,
+        "png_bytes": 462370,
+        "webp_bytes": 334350
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "isabella-small-bird",
+    "description": "A small gray-brown bird faces left, with a pale belly, dark beak and blue wing highlights.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bird"
+    ],
+    "facing": "left",
+    "colors": [
+      "gray",
+      "brown",
+      "blue",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "png": "png/isabella-small-bird.png",
+    "webp": "webp/isabella-small-bird.webp",
+    "reference": "cleveland-1963-256-80-b",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Floral border surrounding Virgin and Christ with Angels",
+      "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "date": "ca. 1500",
+      "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+      "artist": "Master of the First Prayerbook of Maximillian and associates",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+      "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+    },
+    "source_canvas": {
+      "width": 3802,
+      "height": 5545
+    },
+    "master_longest_dimension_cap": 530,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 530,
+    "height": 279,
+    "png_bytes": 165063,
+    "webp_bytes": 112952,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/isabella-small-bird.png",
+        "webp": "webp/128/isabella-small-bird.webp",
+        "width": 128,
+        "height": 67,
+        "png_bytes": 12383,
+        "webp_bytes": 9484
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/isabella-small-bird.png",
+        "webp": "webp/256/isabella-small-bird.webp",
+        "width": 256,
+        "height": 135,
+        "png_bytes": 42846,
+        "webp_bytes": 31334
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/isabella-small-bird.png",
+        "webp": "webp/512/isabella-small-bird.webp",
+        "width": 512,
+        "height": 270,
+        "png_bytes": 156101,
+        "webp_bytes": 109324
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r1-c1-organ-player",
+    "png": "png/musician-r1-c1-organ-player.png",
+    "webp": "webp/musician-r1-c1-organ-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1906271,
+    "webp_bytes": 1317572,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r1-c1-organ-player.png",
+        "webp": "webp/128/musician-r1-c1-organ-player.webp",
+        "png_bytes": 22112,
+        "webp_bytes": 18490
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r1-c1-organ-player.png",
+        "webp": "webp/256/musician-r1-c1-organ-player.webp",
+        "png_bytes": 78779,
+        "webp_bytes": 56254
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r1-c1-organ-player.png",
+        "webp": "webp/512/musician-r1-c1-organ-player.webp",
+        "png_bytes": 290436,
+        "webp_bytes": 203720
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r1-c1-organ-player.png",
+        "webp": "webp/768/musician-r1-c1-organ-player.webp",
+        "png_bytes": 635329,
+        "webp_bytes": 442718
+      }
+    ],
+    "description": "A seated human facing right wears a patterned cream cap, red sleeves, and a brown robe, holding small vertical organ pipes and gesturing right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "organ"
+    ],
+    "facing": "right",
+    "colors": [
+      "cream",
+      "red",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r1-c2-shawm-player",
+    "png": "png/musician-r1-c2-shawm-player.png",
+    "webp": "webp/musician-r1-c2-shawm-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1317650,
+    "webp_bytes": 897056,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r1-c2-shawm-player.png",
+        "webp": "webp/128/musician-r1-c2-shawm-player.webp",
+        "png_bytes": 15888,
+        "webp_bytes": 12304
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r1-c2-shawm-player.png",
+        "webp": "webp/256/musician-r1-c2-shawm-player.webp",
+        "png_bytes": 55496,
+        "webp_bytes": 40206
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r1-c2-shawm-player.png",
+        "webp": "webp/512/musician-r1-c2-shawm-player.webp",
+        "png_bytes": 202584,
+        "webp_bytes": 141154
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r1-c2-shawm-player.png",
+        "webp": "webp/768/musician-r1-c2-shawm-player.webp",
+        "png_bytes": 438924,
+        "webp_bytes": 303398
+      }
+    ],
+    "description": "A standing human facing right wears a cream cap, dark blue tunic, and red stockings, playing a long straight gold shawm extending right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "shawm"
+    ],
+    "facing": "right",
+    "colors": [
+      "cream",
+      "blue",
+      "red",
+      "gold",
+      "green"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r1-c3-horn-player",
+    "png": "png/musician-r1-c3-horn-player.png",
+    "webp": "webp/musician-r1-c3-horn-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1239573,
+    "webp_bytes": 836502,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r1-c3-horn-player.png",
+        "webp": "webp/128/musician-r1-c3-horn-player.webp",
+        "png_bytes": 16159,
+        "webp_bytes": 13440
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r1-c3-horn-player.png",
+        "webp": "webp/256/musician-r1-c3-horn-player.webp",
+        "png_bytes": 54681,
+        "webp_bytes": 39494
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r1-c3-horn-player.png",
+        "webp": "webp/512/musician-r1-c3-horn-player.webp",
+        "png_bytes": 195440,
+        "webp_bytes": 136146
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r1-c3-horn-player.png",
+        "webp": "webp/768/musician-r1-c3-horn-player.webp",
+        "png_bytes": 421135,
+        "webp_bytes": 289630
+      }
+    ],
+    "description": "A seated human facing right wears a pointed red and blue cap and a red-brown tunic, playing a pale curved horn pointing upward to the right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "horn"
+    ],
+    "facing": "right",
+    "colors": [
+      "red",
+      "brown",
+      "blue",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r1-c4-horn-player",
+    "png": "png/musician-r1-c4-horn-player.png",
+    "webp": "webp/musician-r1-c4-horn-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1503003,
+    "webp_bytes": 1046802,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r1-c4-horn-player.png",
+        "webp": "webp/128/musician-r1-c4-horn-player.webp",
+        "png_bytes": 19305,
+        "webp_bytes": 16320
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r1-c4-horn-player.png",
+        "webp": "webp/256/musician-r1-c4-horn-player.webp",
+        "png_bytes": 65329,
+        "webp_bytes": 48286
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r1-c4-horn-player.png",
+        "webp": "webp/512/musician-r1-c4-horn-player.webp",
+        "png_bytes": 235451,
+        "webp_bytes": 170080
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r1-c4-horn-player.png",
+        "webp": "webp/768/musician-r1-c4-horn-player.webp",
+        "png_bytes": 509709,
+        "webp_bytes": 361494
+      }
+    ],
+    "description": "A seated human facing left wears a cream cap and long red robe, playing a pale curved horn extending left.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "horn"
+    ],
+    "facing": "left",
+    "colors": [
+      "red",
+      "cream",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r2-c1-bagpiper",
+    "png": "png/musician-r2-c1-bagpiper.png",
+    "webp": "webp/musician-r2-c1-bagpiper.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1530800,
+    "webp_bytes": 1069574,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r2-c1-bagpiper.png",
+        "webp": "webp/128/musician-r2-c1-bagpiper.webp",
+        "png_bytes": 18969,
+        "webp_bytes": 14662
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r2-c1-bagpiper.png",
+        "webp": "webp/256/musician-r2-c1-bagpiper.webp",
+        "png_bytes": 65243,
+        "webp_bytes": 47986
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r2-c1-bagpiper.png",
+        "webp": "webp/512/musician-r2-c1-bagpiper.webp",
+        "png_bytes": 238132,
+        "webp_bytes": 169426
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r2-c1-bagpiper.png",
+        "webp": "webp/768/musician-r2-c1-bagpiper.webp",
+        "png_bytes": 514454,
+        "webp_bytes": 363942
+      }
+    ],
+    "description": "A seated human facing right wears a dark blue cape with gold trim, red sleeves, and a cream cap and collar, playing pale bagpipes with a curved pipe extending right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "bagpipes"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "red",
+      "cream",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r2-c2-bagpiper",
+    "png": "png/musician-r2-c2-bagpiper.png",
+    "webp": "webp/musician-r2-c2-bagpiper.webp",
+    "width": 1024,
+    "height": 1536,
+    "png_bytes": 2153820,
+    "webp_bytes": 1379500,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 85,
+        "height": 128,
+        "png": "png/128/musician-r2-c2-bagpiper.png",
+        "webp": "webp/128/musician-r2-c2-bagpiper.webp",
+        "png_bytes": 13800,
+        "webp_bytes": 10968
+      },
+      {
+        "max_dimension": 256,
+        "width": 171,
+        "height": 256,
+        "png": "png/256/musician-r2-c2-bagpiper.png",
+        "webp": "webp/256/musician-r2-c2-bagpiper.webp",
+        "png_bytes": 48757,
+        "webp_bytes": 35926
+      },
+      {
+        "max_dimension": 512,
+        "width": 341,
+        "height": 512,
+        "png": "png/512/musician-r2-c2-bagpiper.png",
+        "webp": "webp/512/musician-r2-c2-bagpiper.webp",
+        "png_bytes": 178038,
+        "webp_bytes": 124154
+      },
+      {
+        "max_dimension": 768,
+        "width": 512,
+        "height": 768,
+        "png": "png/768/musician-r2-c2-bagpiper.png",
+        "webp": "webp/768/musician-r2-c2-bagpiper.webp",
+        "png_bytes": 384989,
+        "webp_bytes": 263530
+      }
+    ],
+    "description": "A standing human facing right wears a green tunic, red sleeves, blue stockings, and a cream cap, playing pale gold bagpipes held against the chest.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "bagpipes"
+    ],
+    "facing": "right",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "cream",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r2-c3-horn-player",
+    "png": "png/musician-r2-c3-horn-player.png",
+    "webp": "webp/musician-r2-c3-horn-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1238002,
+    "webp_bytes": 838952,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r2-c3-horn-player.png",
+        "webp": "webp/128/musician-r2-c3-horn-player.webp",
+        "png_bytes": 15511,
+        "webp_bytes": 12346
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r2-c3-horn-player.png",
+        "webp": "webp/256/musician-r2-c3-horn-player.webp",
+        "png_bytes": 54141,
+        "webp_bytes": 38866
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r2-c3-horn-player.png",
+        "webp": "webp/512/musician-r2-c3-horn-player.webp",
+        "png_bytes": 195215,
+        "webp_bytes": 134428
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r2-c3-horn-player.png",
+        "webp": "webp/768/musician-r2-c3-horn-player.webp",
+        "png_bytes": 420511,
+        "webp_bytes": 286704
+      }
+    ],
+    "description": "A seated human facing right wears a dark blue robe and cream cap, playing a large gold-green horn that curves upward to the right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "horn"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "cream",
+      "gold",
+      "green"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r2-c4-psaltery-player",
+    "png": "png/musician-r2-c4-psaltery-player.png",
+    "webp": "webp/musician-r2-c4-psaltery-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1770931,
+    "webp_bytes": 1158866,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r2-c4-psaltery-player.png",
+        "webp": "webp/128/musician-r2-c4-psaltery-player.webp",
+        "png_bytes": 20364,
+        "webp_bytes": 14616
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r2-c4-psaltery-player.png",
+        "webp": "webp/256/musician-r2-c4-psaltery-player.webp",
+        "png_bytes": 74762,
+        "webp_bytes": 49570
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r2-c4-psaltery-player.png",
+        "webp": "webp/512/musician-r2-c4-psaltery-player.webp",
+        "png_bytes": 278015,
+        "webp_bytes": 178612
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r2-c4-psaltery-player.png",
+        "webp": "webp/768/musician-r2-c4-psaltery-player.webp",
+        "png_bytes": 604120,
+        "webp_bytes": 389690
+      }
+    ],
+    "description": "A seated human in a dark robe and patterned cap looks down toward the left while playing a large gold psaltery held diagonally across the lap.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "psaltery"
+    ],
+    "facing": "left",
+    "colors": [
+      "black",
+      "gray",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r3-c1-bagpiper",
+    "png": "png/musician-r3-c1-bagpiper.png",
+    "webp": "webp/musician-r3-c1-bagpiper.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1342137,
+    "webp_bytes": 911802,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r3-c1-bagpiper.png",
+        "webp": "webp/128/musician-r3-c1-bagpiper.webp",
+        "png_bytes": 17527,
+        "webp_bytes": 13952
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r3-c1-bagpiper.png",
+        "webp": "webp/256/musician-r3-c1-bagpiper.webp",
+        "png_bytes": 60549,
+        "webp_bytes": 45092
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r3-c1-bagpiper.png",
+        "webp": "webp/512/musician-r3-c1-bagpiper.webp",
+        "png_bytes": 218013,
+        "webp_bytes": 154700
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r3-c1-bagpiper.png",
+        "webp": "webp/768/musician-r3-c1-bagpiper.webp",
+        "png_bytes": 465403,
+        "webp_bytes": 323316
+      }
+    ],
+    "description": "A standing human facing right wears a green tunic, red sleeves and stockings, and a cream cap, playing a red patterned bagpipe with long green pipes extending left and right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "bagpipes"
+    ],
+    "facing": "right",
+    "colors": [
+      "green",
+      "red",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r3-c2-lute-player",
+    "png": "png/musician-r3-c2-lute-player.png",
+    "webp": "webp/musician-r3-c2-lute-player.webp",
+    "width": 1024,
+    "height": 1536,
+    "png_bytes": 2241450,
+    "webp_bytes": 1448394,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 85,
+        "height": 128,
+        "png": "png/128/musician-r3-c2-lute-player.png",
+        "webp": "webp/128/musician-r3-c2-lute-player.webp",
+        "png_bytes": 15050,
+        "webp_bytes": 11504
+      },
+      {
+        "max_dimension": 256,
+        "width": 171,
+        "height": 256,
+        "png": "png/256/musician-r3-c2-lute-player.png",
+        "webp": "webp/256/musician-r3-c2-lute-player.webp",
+        "png_bytes": 51645,
+        "webp_bytes": 36898
+      },
+      {
+        "max_dimension": 512,
+        "width": 341,
+        "height": 512,
+        "png": "png/512/musician-r3-c2-lute-player.png",
+        "webp": "webp/512/musician-r3-c2-lute-player.webp",
+        "png_bytes": 187221,
+        "webp_bytes": 129678
+      },
+      {
+        "max_dimension": 768,
+        "width": 512,
+        "height": 768,
+        "png": "png/768/musician-r3-c2-lute-player.png",
+        "webp": "webp/768/musician-r3-c2-lute-player.webp",
+        "png_bytes": 407700,
+        "webp_bytes": 277822
+      }
+    ],
+    "description": "A standing human wears a tilted green cap, red striped tunic, and long green robe, looking down toward the right while playing a pale lute extending right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "lute"
+    ],
+    "facing": "right",
+    "colors": [
+      "green",
+      "red",
+      "cream",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r3-c3-lute-player",
+    "png": "png/musician-r3-c3-lute-player.png",
+    "webp": "webp/musician-r3-c3-lute-player.webp",
+    "width": 1024,
+    "height": 1536,
+    "png_bytes": 2304829,
+    "webp_bytes": 1518790,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 85,
+        "height": 128,
+        "png": "png/128/musician-r3-c3-lute-player.png",
+        "webp": "webp/128/musician-r3-c3-lute-player.webp",
+        "png_bytes": 14560,
+        "webp_bytes": 11874
+      },
+      {
+        "max_dimension": 256,
+        "width": 171,
+        "height": 256,
+        "png": "png/256/musician-r3-c3-lute-player.png",
+        "webp": "webp/256/musician-r3-c3-lute-player.webp",
+        "png_bytes": 50486,
+        "webp_bytes": 37744
+      },
+      {
+        "max_dimension": 512,
+        "width": 341,
+        "height": 512,
+        "png": "png/512/musician-r3-c3-lute-player.png",
+        "webp": "webp/512/musician-r3-c3-lute-player.webp",
+        "png_bytes": 185333,
+        "webp_bytes": 132524
+      },
+      {
+        "max_dimension": 768,
+        "width": 512,
+        "height": 768,
+        "png": "png/768/musician-r3-c3-lute-player.png",
+        "webp": "webp/768/musician-r3-c3-lute-player.webp",
+        "png_bytes": 404423,
+        "webp_bytes": 286288
+      }
+    ],
+    "description": "A standing brown-haired human wears a red jacket, dark blue dotted skirt, and red stockings, looking down toward the left while playing a pale lute with its neck pointing up-right.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "lute"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "red",
+      "blue",
+      "cream",
+      "green"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "musician-r3-c4-pipe-player",
+    "png": "png/musician-r3-c4-pipe-player.png",
+    "webp": "webp/musician-r3-c4-pipe-player.webp",
+    "width": 1143,
+    "height": 1376,
+    "png_bytes": 1553556,
+    "webp_bytes": 1084606,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "width": 106,
+        "height": 128,
+        "png": "png/128/musician-r3-c4-pipe-player.png",
+        "webp": "webp/128/musician-r3-c4-pipe-player.webp",
+        "png_bytes": 18828,
+        "webp_bytes": 16088
+      },
+      {
+        "max_dimension": 256,
+        "width": 213,
+        "height": 256,
+        "png": "png/256/musician-r3-c4-pipe-player.png",
+        "webp": "webp/256/musician-r3-c4-pipe-player.webp",
+        "png_bytes": 64998,
+        "webp_bytes": 48170
+      },
+      {
+        "max_dimension": 512,
+        "width": 425,
+        "height": 512,
+        "png": "png/512/musician-r3-c4-pipe-player.png",
+        "webp": "webp/512/musician-r3-c4-pipe-player.webp",
+        "png_bytes": 237954,
+        "webp_bytes": 168740
+      },
+      {
+        "max_dimension": 768,
+        "width": 638,
+        "height": 768,
+        "png": "png/768/musician-r3-c4-pipe-player.png",
+        "webp": "webp/768/musician-r3-c4-pipe-player.webp",
+        "png_bytes": 518578,
+        "webp_bytes": 363528
+      }
+    ],
+    "description": "A seated curly-haired human facing right wears a pale blue and cream striped sleeveless outfit and red stockings, playing a short straight gold pipe.",
+    "categories": [
+      "humans",
+      "music"
+    ],
+    "subjects": [
+      "human",
+      "pipe"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "cream",
+      "red",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "medieval-cutouts",
+    "asset_type": "illustration",
+    "derivation": "ai-assisted-extraction",
+    "has_transparency": true,
+    "usage_notes": [
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "polyhymnia",
+    "png": "png/polyhymnia.png",
+    "webp": "webp/polyhymnia.webp",
+    "description": "Polyhymnia, veiled and contemplative, playing a portative organ in the manuscript’s painted style. She sits in ivory robes and a blue mantle within a gold floral frame, with a garden and distant landscape behind her.",
+    "categories": [
+      "humans",
+      "music",
+      "floral",
+      "botanical",
+      "animals",
+      "scrollwork"
+    ],
+    "subjects": [
+      "polyhymnia",
+      "muse",
+      "woman",
+      "musician",
+      "organ",
+      "veil",
+      "flower",
+      "leaf",
+      "bird",
+      "butterfly",
+      "landscape"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "cream",
+      "gold",
+      "pink",
+      "green",
+      "brown",
+      "red",
+      "white",
+      "purple",
+      "orange",
+      "gray"
+    ],
+    "composition": "framed-scene",
+    "asset_type": "illustration",
+    "reference": "illustration-additions",
+    "derivation": "independent-ai-interpretation",
+    "source_canvas": {
+      "width": 1004,
+      "height": 1567
+    },
+    "master_longest_dimension_cap": 1567,
+    "usage_notes": [
+      "User-supplied modern AI illustration. The exact generation prompt and original input hash are recorded in illustration-additions.json.",
+      "The painted landscape and gold floral frame are part of this complete scene; transparency is limited to its irregular outer edge.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "width": 1004,
+    "height": 1567,
+    "png_bytes": 2916743,
+    "webp_bytes": 2061232,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/polyhymnia.png",
+        "webp": "webp/128/polyhymnia.webp",
+        "width": 82,
+        "height": 128,
+        "png_bytes": 28334,
+        "webp_bytes": 23492
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/polyhymnia.png",
+        "webp": "webp/256/polyhymnia.webp",
+        "width": 164,
+        "height": 256,
+        "png_bytes": 106736,
+        "webp_bytes": 83476
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/polyhymnia.png",
+        "webp": "webp/512/polyhymnia.webp",
+        "width": 328,
+        "height": 512,
+        "png_bytes": 392388,
+        "webp_bytes": 291084
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/polyhymnia.png",
+        "webp": "webp/768/polyhymnia.webp",
+        "width": 492,
+        "height": 768,
+        "png_bytes": 832442,
+        "webp_bytes": 601034
+      }
+    ],
+    "author": "adrian729",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rabbit-horn-hound-rider",
+    "description": "A russet rabbit in a red tunic blows a curved hunting horn while riding a pale hound facing right.",
+    "categories": [
+      "animals",
+      "fantasy",
+      "music"
+    ],
+    "subjects": [
+      "rabbit",
+      "dog",
+      "hound",
+      "rider",
+      "horn",
+      "musician"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "red",
+      "cream",
+      "gray",
+      "gold"
+    ],
+    "composition": "multiple-figures",
+    "png": "png/rabbit-horn-hound-rider.png",
+    "webp": "webp/rabbit-horn-hound-rider.webp",
+    "reference": "fitzwilliam-ms1-2005-115v",
+    "derivation": "independent-ai-interpretation",
+    "provenance": {
+      "institution": "Fitzwilliam Museum",
+      "title": "Rabbit blowing a hunting horn and riding a hound",
+      "object_identifier": "MS 1-2005; Macclesfield Psalter, fol. 115v",
+      "date": "ca. 1330-1340",
+      "record_url": "https://www.fitzmuseum.cam.ac.uk/illuminated/manuscript/discover/the-macclesfield-psalter/folio/folio-115v-294",
+      "image_rights": "Restricted reference image; no scan used",
+      "rights_url": "https://fitzmuseum.cam.ac.uk/about-us/terms-of-use-of-our-website",
+      "method": "independent-ai-interpretation",
+      "audit": "historical-additions.json"
+    },
+    "source_canvas": {
+      "width": 1024,
+      "height": 843
+    },
+    "master_longest_dimension_cap": 1024,
+    "usage_notes": [
+      "New AI illustration independently composed from a documented medieval motif. This is a modern interpretation; no restricted museum image was used.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "asset_type": "illustration",
+    "width": 1024,
+    "height": 843,
+    "png_bytes": 878477,
+    "webp_bytes": 603604,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rabbit-horn-hound-rider.png",
+        "webp": "webp/128/rabbit-horn-hound-rider.webp",
+        "width": 128,
+        "height": 105,
+        "png_bytes": 20544,
+        "webp_bytes": 15554
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rabbit-horn-hound-rider.png",
+        "webp": "webp/256/rabbit-horn-hound-rider.webp",
+        "width": 256,
+        "height": 211,
+        "png_bytes": 65635,
+        "webp_bytes": 46782
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rabbit-horn-hound-rider.png",
+        "webp": "webp/512/rabbit-horn-hound-rider.webp",
+        "width": 512,
+        "height": 422,
+        "png_bytes": 233579,
+        "webp_bytes": 163290
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/rabbit-horn-hound-rider.png",
+        "webp": "webp/768/rabbit-horn-hound-rider.webp",
+        "width": 768,
+        "height": 632,
+        "png_bytes": 511058,
+        "webp_bytes": 356398
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rabbit-lutenist-painted",
+    "author": "adrian729",
+    "description": "A brown rabbit standing upright and facing right while playing a wooden lute, with long raised ears, pale chest fur and green ivy curling around its feet.",
+    "categories": [
+      "animals",
+      "music",
+      "fantasy",
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "rabbit",
+      "musician",
+      "lute",
+      "ivy",
+      "leaf",
+      "vine"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "tan",
+      "cream",
+      "green",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "usage_notes": [
+      "User-authored artwork; native canvas, transparency and pixels are retained. Import details are recorded in authored-additions.json.",
+      "The supplied artwork reaches the lower canvas edge; preserve the full image.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "png": "png/rabbit-lutenist-painted.png",
+    "webp": "webp/rabbit-lutenist-painted.webp",
+    "reference": "authored-additions",
+    "derivation": "supplied-authored-raster",
+    "asset_type": "illustration",
+    "width": 1197,
+    "height": 1314,
+    "png_bytes": 1321288,
+    "webp_bytes": 927744,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rabbit-lutenist-painted.png",
+        "webp": "webp/128/rabbit-lutenist-painted.webp",
+        "width": 117,
+        "height": 128,
+        "png_bytes": 20193,
+        "webp_bytes": 15766
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rabbit-lutenist-painted.png",
+        "webp": "webp/256/rabbit-lutenist-painted.webp",
+        "width": 233,
+        "height": 256,
+        "png_bytes": 66589,
+        "webp_bytes": 48470
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/rabbit-lutenist-painted.png",
+        "webp": "webp/512/rabbit-lutenist-painted.webp",
+        "width": 466,
+        "height": 512,
+        "png_bytes": 231500,
+        "webp_bytes": 162342
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/rabbit-lutenist-painted.png",
+        "webp": "webp/768/rabbit-lutenist-painted.webp",
+        "width": 700,
+        "height": 768,
+        "png_bytes": 497765,
+        "webp_bytes": 345818
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "walters-centaur-archer",
+    "description": "A leaping centaur with a pale human torso and spotted blue equine body draws a red bow toward the right.",
+    "categories": [
+      "hybrids",
+      "fantasy",
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "centaur",
+      "archer",
+      "bow",
+      "arrow"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "pink",
+      "red",
+      "black"
+    ],
+    "composition": "single-figure",
+    "png": "png/walters-centaur-archer.png",
+    "webp": "webp/walters-centaur-archer.webp",
+    "reference": "walters-w102-82v",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Centaur firing an arrow",
+      "object_identifier": "W.102, fol. 82v",
+      "date": "ca. 1300",
+      "record_url": "https://art.thewalters.org/object/W.102.82V/",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://art.thewalters.org/object/W.102.82V/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://live.staticflickr.com/8023/7699241118_60ac2881e4_b.jpg",
+      "source_sha256": "4f3c9f7909682439c1ad1cd159ba76134e0f4312a851224390ae2750859ef442"
+    },
+    "source_canvas": {
+      "width": 1023,
+      "height": 793
+    },
+    "master_longest_dimension_cap": 720,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 720,
+    "height": 646,
+    "png_bytes": 526938,
+    "webp_bytes": 373318,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/walters-centaur-archer.png",
+        "webp": "webp/128/walters-centaur-archer.webp",
+        "width": 128,
+        "height": 115,
+        "png_bytes": 24493,
+        "webp_bytes": 18866
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/walters-centaur-archer.png",
+        "webp": "webp/256/walters-centaur-archer.webp",
+        "width": 256,
+        "height": 230,
+        "png_bytes": 82613,
+        "webp_bytes": 60208
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/walters-centaur-archer.png",
+        "webp": "webp/512/walters-centaur-archer.webp",
+        "width": 512,
+        "height": 459,
+        "png_bytes": 285413,
+        "webp_bytes": 205856
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "walters-elephant-castle",
+    "description": "An orange elephant carries a cream castle with blue roofs, a red parapet and a rider against a blue and red patterned panel.",
+    "categories": [
+      "animals",
+      "fantasy",
+      "humans"
+    ],
+    "subjects": [
+      "elephant",
+      "castle",
+      "rider",
+      "architecture"
+    ],
+    "facing": "right",
+    "colors": [
+      "orange",
+      "blue",
+      "red",
+      "cream",
+      "gold"
+    ],
+    "composition": "framed-scene",
+    "png": "png/walters-elephant-castle.png",
+    "webp": "webp/walters-elephant-castle.webp",
+    "reference": "walters-w102-28r",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Elephant and castle",
+      "object_identifier": "W.102, fol. 28r",
+      "date": "ca. 1300",
+      "record_url": "https://art.thewalters.org/object/W.102.28R/",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://art.thewalters.org/object/W.102.28R/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://live.staticflickr.com/8013/7650320442_11fe46635b_b.jpg",
+      "source_sha256": "65f8a85603442f192063a8b6298def18ca577d635c955fd4b97c611d590a0ae2"
+    },
+    "source_canvas": {
+      "width": 719,
+      "height": 1023
+    },
+    "master_longest_dimension_cap": 270,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "The original panel ground is intentionally retained; only the surrounding page was removed.",
+      "Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 270,
+    "height": 205,
+    "png_bytes": 109169,
+    "webp_bytes": 81152,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/walters-elephant-castle.png",
+        "webp": "webp/128/walters-elephant-castle.webp",
+        "width": 128,
+        "height": 97,
+        "png_bytes": 26603,
+        "webp_bytes": 21400
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/walters-elephant-castle.png",
+        "webp": "webp/256/walters-elephant-castle.webp",
+        "width": 256,
+        "height": 194,
+        "png_bytes": 99036,
+        "webp_bytes": 75040
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "walters-horse-flute-drum",
+    "description": "An upright blue spotted horse blows a small pipe while holding a round red-rimmed drum and a curved drumstick.",
+    "categories": [
+      "animals",
+      "fantasy",
+      "music"
+    ],
+    "subjects": [
+      "horse",
+      "flute",
+      "drum",
+      "musician"
+    ],
+    "facing": "right",
+    "colors": [
+      "blue",
+      "red",
+      "cream",
+      "black"
+    ],
+    "composition": "single-figure",
+    "png": "png/walters-horse-flute-drum.png",
+    "webp": "webp/walters-horse-flute-drum.webp",
+    "reference": "walters-w102-74v",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Horse playing a flute and drum",
+      "object_identifier": "W.102, fol. 74v",
+      "date": "ca. 1300",
+      "record_url": "https://art.thewalters.org/object/W.102.74V/",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://art.thewalters.org/object/W.102.74V/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://pdr-assets.b-cdn.net/collections/music-in-the-margins-the-funeral-of-reynard-the-fox-13th-century/35897180625_74c08433b2_o.jpg",
+      "source_sha256": "91c4d324065db3ef13d6ca547f7e62d4231010db5b04d614d6435c432caf51f5"
+    },
+    "source_canvas": {
+      "width": 409,
+      "height": 494
+    },
+    "master_longest_dimension_cap": 400,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 236,
+    "height": 400,
+    "png_bytes": 133740,
+    "webp_bytes": 95004,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/walters-horse-flute-drum.png",
+        "webp": "webp/128/walters-horse-flute-drum.webp",
+        "width": 76,
+        "height": 128,
+        "png_bytes": 17009,
+        "webp_bytes": 14518
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/walters-horse-flute-drum.png",
+        "webp": "webp/256/walters-horse-flute-drum.webp",
+        "width": 151,
+        "height": 256,
+        "png_bytes": 59345,
+        "webp_bytes": 44012
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "walters-rabbit-church-bells",
+    "description": "A brown rabbit pulls a red bell rope beside a cream church with blue roofs, a bell tower and a dark circular window.",
+    "categories": [
+      "animals",
+      "fantasy",
+      "music"
+    ],
+    "subjects": [
+      "rabbit",
+      "church",
+      "bell",
+      "rope",
+      "architecture"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "blue",
+      "cream",
+      "red",
+      "black"
+    ],
+    "composition": "framed-scene",
+    "png": "png/walters-rabbit-church-bells.png",
+    "webp": "webp/walters-rabbit-church-bells.webp",
+    "reference": "walters-w102-81r",
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Walters Art Museum",
+      "title": "Rabbit tolling church bells",
+      "object_identifier": "W.102, fol. 81r",
+      "date": "ca. 1300",
+      "record_url": "https://art.thewalters.org/object/W.102.81R/",
+      "image_rights": "CC0 1.0",
+      "rights_url": "https://art.thewalters.org/object/W.102.81R/",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-additions.json",
+      "image_url": "https://live.staticflickr.com/8014/7699243818_f188d31fba_b.jpg",
+      "source_sha256": "c329b6f3255b2ec40ac8868a1ceee0f0fc3e1a1797facc2b8b3e5064a61e41cb"
+    },
+    "source_canvas": {
+      "width": 985,
+      "height": 1024
+    },
+    "master_longest_dimension_cap": 960,
+    "usage_notes": [
+      "Extracted from the historical object linked in provenance; see the source and exact edit prompt in historical-additions.json.",
+      "Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "asset_type": "illustration",
+    "width": 823,
+    "height": 960,
+    "png_bytes": 1225555,
+    "webp_bytes": 868836,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/walters-rabbit-church-bells.png",
+        "webp": "webp/128/walters-rabbit-church-bells.webp",
+        "width": 110,
+        "height": 128,
+        "png_bytes": 27854,
+        "webp_bytes": 21056
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/walters-rabbit-church-bells.png",
+        "webp": "webp/256/walters-rabbit-church-bells.webp",
+        "width": 219,
+        "height": 256,
+        "png_bytes": 100026,
+        "webp_bytes": 72114
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/walters-rabbit-church-bells.png",
+        "webp": "webp/512/walters-rabbit-church-bells.webp",
+        "width": 439,
+        "height": 512,
+        "png_bytes": 372597,
+        "webp_bytes": 264142
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/walters-rabbit-church-bells.png",
+        "webp": "webp/768/walters-rabbit-church-bells.webp",
+        "width": 658,
+        "height": 768,
+        "png_bytes": 810977,
+        "webp_bytes": 574524
+      }
+    ],
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
