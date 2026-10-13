@@ -89,6 +89,346 @@
     ]
   },
   {
+    "description": "The complete original gold-ground miniature: a haloed standing apostle, draped city towers, green floor and original blue vine and red-gold frame with four projecting corner flourishes. Part of the Greek Psalter blue-vine frame set.",
+    "categories": [
+      "humans",
+      "floral",
+      "reading"
+    ],
+    "subjects": [
+      "apostle",
+      "halo",
+      "scroll",
+      "city",
+      "tower",
+      "drapery",
+      "vine",
+      "frame"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "gold",
+      "red",
+      "green",
+      "brown"
+    ],
+    "composition": "framed-scene",
+    "name": "complete-apostle-city-scene-with-blue-vine-frame",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1950-154",
+    "png": "png/complete-apostle-city-scene-with-blue-vine-frame.png",
+    "webp": "webp/complete-apostle-city-scene-with-blue-vine-frame.webp",
+    "width": 3769,
+    "height": 3137,
+    "png_bytes": 17137537,
+    "webp_bytes": 11656550,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/complete-apostle-city-scene-with-blue-vine-frame.png",
+        "webp": "webp/128/complete-apostle-city-scene-with-blue-vine-frame.webp",
+        "width": 128,
+        "height": 107,
+        "png_bytes": 27125,
+        "webp_bytes": 22544
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/complete-apostle-city-scene-with-blue-vine-frame.png",
+        "webp": "webp/256/complete-apostle-city-scene-with-blue-vine-frame.webp",
+        "width": 256,
+        "height": 213,
+        "png_bytes": 103989,
+        "webp_bytes": 80402
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/complete-apostle-city-scene-with-blue-vine-frame.png",
+        "webp": "webp/512/complete-apostle-city-scene-with-blue-vine-frame.webp",
+        "width": 512,
+        "height": 426,
+        "png_bytes": 394831,
+        "webp_bytes": 292922
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/complete-apostle-city-scene-with-blue-vine-frame.png",
+        "webp": "webp/768/complete-apostle-city-scene-with-blue-vine-frame.webp",
+        "width": 768,
+        "height": 639,
+        "png_bytes": 868388,
+        "webp_bytes": 631846
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Greek Psalter and New Testament",
+      "object_identifier": "1950.154",
+      "date": "1084",
+      "record_url": "https://clevelandart.org/art/1950.154",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original native scan color, paint wear and asymmetry retained. Exterior page, unrelated writing and alphabetic connecting rules excluded; opaque illustrated surfaces preserved. No missing pigment or geometry invented. PNG retains historical paint texture.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-1950-154-set",
+        "name": "Greek Psalter blue-vine frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4540,
+      "height": 6787
+    },
+    "master_longest_dimension_cap": 3769,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small original haloed bearded figure wearing green upper robes and a blue lower robe, extending his hands. Part of the Greek Psalter blue-vine frame set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "halo",
+      "robe",
+      "hand"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "green",
+      "gold",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "haloed-man-gesturing-in-blue-and-green-robes",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1950-154",
+    "png": "png/haloed-man-gesturing-in-blue-and-green-robes.png",
+    "webp": "webp/haloed-man-gesturing-in-blue-and-green-robes.webp",
+    "width": 421,
+    "height": 1057,
+    "png_bytes": 469114,
+    "webp_bytes": 300748,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-man-gesturing-in-blue-and-green-robes.png",
+        "webp": "webp/128/haloed-man-gesturing-in-blue-and-green-robes.webp",
+        "width": 51,
+        "height": 128,
+        "png_bytes": 11692,
+        "webp_bytes": 9558
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-man-gesturing-in-blue-and-green-robes.png",
+        "webp": "webp/256/haloed-man-gesturing-in-blue-and-green-robes.webp",
+        "width": 102,
+        "height": 256,
+        "png_bytes": 38893,
+        "webp_bytes": 30282
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-man-gesturing-in-blue-and-green-robes.png",
+        "webp": "webp/512/haloed-man-gesturing-in-blue-and-green-robes.webp",
+        "width": 204,
+        "height": 512,
+        "png_bytes": 133014,
+        "webp_bytes": 95560
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-man-gesturing-in-blue-and-green-robes.png",
+        "webp": "webp/768/haloed-man-gesturing-in-blue-and-green-robes.webp",
+        "width": 306,
+        "height": 768,
+        "png_bytes": 273098,
+        "webp_bytes": 185700
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Greek Psalter and New Testament",
+      "object_identifier": "1950.154",
+      "date": "1084",
+      "record_url": "https://clevelandart.org/art/1950.154",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original native scan color, paint wear and asymmetry retained. Exterior page, unrelated writing and alphabetic connecting rules excluded; opaque illustrated surfaces preserved. No missing pigment or geometry invented. PNG retains historical paint texture.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-1950-154-set",
+        "name": "Greek Psalter blue-vine frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4540,
+      "height": 6787
+    },
+    "master_longest_dimension_cap": 1057,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small original haloed bearded figure wearing blue and orange robes, gesturing with his left hand. Part of the Greek Psalter blue-vine frame set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "halo",
+      "robe",
+      "hand"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "orange",
+      "gold",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "haloed-man-in-blue-and-orange-robes",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1950-154",
+    "png": "png/haloed-man-in-blue-and-orange-robes.png",
+    "webp": "webp/haloed-man-in-blue-and-orange-robes.webp",
+    "width": 344,
+    "height": 1048,
+    "png_bytes": 461072,
+    "webp_bytes": 299180,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/haloed-man-in-blue-and-orange-robes.png",
+        "webp": "webp/128/haloed-man-in-blue-and-orange-robes.webp",
+        "width": 42,
+        "height": 128,
+        "png_bytes": 11371,
+        "webp_bytes": 9914
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/haloed-man-in-blue-and-orange-robes.png",
+        "webp": "webp/256/haloed-man-in-blue-and-orange-robes.webp",
+        "width": 84,
+        "height": 256,
+        "png_bytes": 37780,
+        "webp_bytes": 32500
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/haloed-man-in-blue-and-orange-robes.png",
+        "webp": "webp/512/haloed-man-in-blue-and-orange-robes.webp",
+        "width": 168,
+        "height": 512,
+        "png_bytes": 131370,
+        "webp_bytes": 97702
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/haloed-man-in-blue-and-orange-robes.png",
+        "webp": "webp/768/haloed-man-in-blue-and-orange-robes.webp",
+        "width": 252,
+        "height": 768,
+        "png_bytes": 271003,
+        "webp_bytes": 187522
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Greek Psalter and New Testament",
+      "object_identifier": "1950.154",
+      "date": "1084",
+      "record_url": "https://clevelandart.org/art/1950.154",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original native scan color, paint wear and asymmetry retained. Exterior page, unrelated writing and alphabetic connecting rules excluded; opaque illustrated surfaces preserved. No missing pigment or geometry invented. PNG retains historical paint texture.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-1950-154-set",
+        "name": "Greek Psalter blue-vine frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4540,
+      "height": 6787
+    },
+    "master_longest_dimension_cap": 1048,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
     "name": "hoefnagel-cut-apple",
     "description": "Two overlapping halves of a red apple reveal pale flesh, dark cores, brown seeds and short stalks.",
     "categories": [
@@ -2143,6 +2483,117 @@
     "repeat_axis": "none",
     "components": {},
     "has_transparency": true,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A standing haloed apostle in blue and orange robes holding a rolled white scroll. Part of the Greek Psalter blue-vine frame set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "apostle",
+      "scroll",
+      "halo"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "orange",
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "standing-apostle-with-rolled-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1950-154",
+    "png": "png/standing-apostle-with-rolled-scroll.png",
+    "webp": "webp/standing-apostle-with-rolled-scroll.webp",
+    "width": 716,
+    "height": 2002,
+    "png_bytes": 1834865,
+    "webp_bytes": 1299048,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/standing-apostle-with-rolled-scroll.png",
+        "webp": "webp/128/standing-apostle-with-rolled-scroll.webp",
+        "width": 46,
+        "height": 128,
+        "png_bytes": 13428,
+        "webp_bytes": 12202
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/standing-apostle-with-rolled-scroll.png",
+        "webp": "webp/256/standing-apostle-with-rolled-scroll.webp",
+        "width": 92,
+        "height": 256,
+        "png_bytes": 45651,
+        "webp_bytes": 35958
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/standing-apostle-with-rolled-scroll.png",
+        "webp": "webp/512/standing-apostle-with-rolled-scroll.webp",
+        "width": 183,
+        "height": 512,
+        "png_bytes": 156610,
+        "webp_bytes": 118154
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/standing-apostle-with-rolled-scroll.png",
+        "webp": "webp/768/standing-apostle-with-rolled-scroll.webp",
+        "width": 275,
+        "height": 768,
+        "png_bytes": 327036,
+        "webp_bytes": 238860
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Greek Psalter and New Testament",
+      "object_identifier": "1950.154",
+      "date": "1084",
+      "record_url": "https://clevelandart.org/art/1950.154",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-1950-154-set",
+        "name": "Greek Psalter blue-vine frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4540,
+      "height": 6787
+    },
+    "master_longest_dimension_cap": 2002,
     "uses": [
       "image"
     ],
